@@ -9,3 +9,4 @@ hello WHH! hello Git!
 hello WHH! hello Git!
 hello WHH! hello Git!
 好累啊！！！
+使用SSH推送拉取！
